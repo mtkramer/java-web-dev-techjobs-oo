@@ -1,6 +1,5 @@
 package org.launchcode.techjobs_oo.tests;
 
-import org.junit.Before;
 import org.launchcode.techjobs_oo.*;
 import org.junit.Test;
 
